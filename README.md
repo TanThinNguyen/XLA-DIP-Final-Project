@@ -1,10 +1,25 @@
 # XLA-DIP-Final-Project
 
-Đồ án cuối kì môn Xử lý ảnh số và video số, tìm hiểu về một phương pháp trong Computer Vision có tên là Structure from Motion (SfM). SfM được dùng để tái tạo đám mây điểm mô tả cấu trúc 3D của vật thể từ dãy các ảnh chụp 2D với nhiều góc chụp khác nhau.
+## Overview
 
-### Thông tin nhóm RETINA
+Final project in Digital Image and Video Processing. Reseach on the topic of Photogrammetry and Structure from Motion (SfM) method in Computer Vision. SfM is used to reconstruct 3D point cloud from a list of 2D images that capture objects or scene from multiple viewpoints
 
-|STT|Họ tên|
+## Input, Output
+![input-output](./Assets/input-output.jpg)
+
+## Structure from Motion Pipeline
+![pipeline](./Assets/sfm-pipeline.jpg)
+
+## Experiments
+![exp-dataset-1](./Assets/exp-dataset-1.jpg)
+
+![exp-dataset-2](./Assets/exp-dataset-2.jpg)
+
+![exp-dataset-3](./Assets/exp-dataset-3.jpg)
+
+## Member information
+
+|#|Name|
 |---|---|
 |1|Bùi Đoàn Hữu Nhân|
 |2|Nguyễn Tấn Thìn|
